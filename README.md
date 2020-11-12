@@ -1,1 +1,1 @@
-almula
+mypage
