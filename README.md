@@ -27,7 +27,7 @@
                 Özet
             </h2>
             <p>
-                Bu büyük <b>kapışmada</b> kendi <i>web sayfamızı</i> oluşturmada birbirimizle yarışacağız!!1
+                Ben Almula. 14 yaşındayım. Kabataş 25. dönem öğrencisiyim. Spor olarak tenisle ilgileniyorum. Bir kedim var. Müzik dinlemeyi çok seviyorum
             </p>
         </section>
         <section id="education">
@@ -35,7 +35,7 @@
             <ul>
                 <li>
                     <strong >Kabataş Erkek Lisesi</strong><br>
-                    '12<br>
+                    '25<br>
                 </li>
             </ul>
         </section>
